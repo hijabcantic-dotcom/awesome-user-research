@@ -282,7 +282,7 @@ Practitioners, thinkers, and writers shaping the field of UX research and produc
 - [Steve Portigal](https://x.com/steveportigal) - Author of *Interviewing Users*; leading voice in user research practice.
 - [Teresa Torres](https://x.com/ttorres) - Author of *Continuous Discovery Habits*; advocate for outcome-driven product teams.
 
-## Contribute
+## 🧺 Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 

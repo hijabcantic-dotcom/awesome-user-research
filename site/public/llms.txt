@@ -1,0 +1,36 @@
+# Awesome User Research
+
+> A curated list of tools for Product Managers and UX Researchers — covering the full stack from feedback collection and session recording to analytics, experimentation, and AI-powered synthesis.
+
+## What is this?
+
+Awesome User Research is an open-source reference list maintained by Samuel Berthe. It tracks the user research and product discovery ecosystem: all-in-one platforms, survey tools, session recording, product analytics, feature flags, user testing, interview tools, research repositories, and learning resources.
+
+User research encompasses the methods and tools used to understand users' behaviors, needs, and motivations through observation, task analysis, and feedback methodologies. It informs product decisions and helps teams build products that users actually want.
+
+## Coverage
+
+- **All-in-one platforms** — Contentsquare, Datadog, Hotjar, Pendo, PostHog, Screeb
+- **In-app surveys** — Hotjar, Pendo, PostHog, Refiner, Screeb, Sprig
+- **Feedback analysis** — Chattermill, Enterpret, Kapiche, Lumoa, Thematic
+- **Product discovery** — Canny, Harvestr, Productboard
+- **Session recording** — Contentsquare, Datadog, Fullstory, Heap, Hotjar, Microsoft Clarity, PostHog, Screeb, Smartlook
+- **Product analytics** — Amplitude, Datadog, Heap, Mixpanel, PostHog, Screeb
+- **Marketing analytics** — Contentsquare, Google Analytics
+- **Business intelligence** — Looker, Metabase, Redash
+- **Customer data platform** — mParticle, RudderStack, Segment, Tealium
+- **Feature flags & experimentation** — Flagsmith, GrowthBook, LaunchDarkly, Optimizely, PostHog, Split.io, VWO
+- **Product tours & onboarding** — Appcues, Intercom, Pendo, Screeb
+- **User testing** — Maze, Sprig, UserTesting
+- **User interview** — Discuss, Grain, Great Question, Lookback, Lyssna, Outset
+- **Research repository** — Condens, Dovetail, Marvin
+- **User recruitment** — Prolific, Respondent, User Interviews
+- **Events** — Nielsen Norman Group UX Conference, Product at Heart, UX London, UXLX, UXPA International
+- **Books** — Continuous Discovery Habits, The Mom Test, Just Enough Research, Interviewing Users, and more
+- **People to follow** — Teresa Torres, Steve Portigal, Erika Hall, Kate Towsey, Bob Moesta, and more
+
+## Links
+
+- Source: https://github.com/samber/awesome-user-research
+- Website: https://samber.github.io/awesome-user-research/
+- GitHub: https://github.com/samber
