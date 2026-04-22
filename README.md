@@ -245,7 +245,7 @@ Find and recruit the right participants for your research.
 - [Dollars to Donuts](https://portigal.com/podcast) - Steve Portigal interviews research practitioners.
 - [Mixed Methods](https://www.mixed-methods.org/episodes) - A podcast for UX researchers.
 - [The Product Experience](https://www.mindtheproduct.com/the-product-experience) - Mind the Product's podcast on building better products with real user insight.
-- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - The Rosenfeld Review Podcast
+- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - Interviews UX practitioners and thinkers
 - [This is HCD](https://www.thisishcd.com) - Human-centered design conversations with practitioners worldwide.
 
 ### 📖 Books
