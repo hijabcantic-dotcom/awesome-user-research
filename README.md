@@ -45,6 +45,8 @@ Platforms that combine multiple research and analytics capabilities — session 
 
 ## 💬 Survey
 
+> Users will tell you exactly what they want. Then use the product completely differently.
+
 ### 📋 In-app surveys
 
 > "On a scale of 1 to 5, how likely are you to abandon this survey before finishing it?"
@@ -67,7 +69,6 @@ Aggregate, tag, and extract signal from qualitative feedback at scale.
 - [Chattermill](https://chattermill.com) - AI-powered feedback analytics for CX and product teams.
 - [Enterpret](https://enterpret.com) - AI-native feedback analysis aggregating support tickets, reviews, and NPS at scale.
 - [Kapiche](https://kapiche.com) - AI-driven theme discovery and clustering from unstructured customer feedback.
-- [Lumoa](https://lumoa.me) - AI feedback analytics for sentiment and themes across NPS, surveys, and support data.
 - [Thematic](https://getthematic.com) - AI-powered thematic analysis for clustering recurring themes from open-ended feedback.
 
 ## 🔍 Product discovery
@@ -97,6 +98,8 @@ Session recordings are renderings of real actions taken by visitors as they brow
 - [Smartlook](https://smartlook.com) - Qualitative analytics with session recordings and heatmaps.
 
 ## 📊 Analytics
+
+> Data-driven decisions, made by people who already knew what they wanted to do.
 
 ### 📈 Product analytics
 
@@ -215,6 +218,8 @@ Find and recruit the right participants for your research.
 
 ### 🎪 Event
 
+> A room full of people who agree users should be central to everything — see you next year.
+
 - [Nielsen Norman Group UX Conference](https://nngroup.com/training) - Training and events from the leading UX research firm.
 - [Product at Heart](https://productatheart.com) - Annual product conference in Hamburg focused on product thinking and discovery.
 - [UX London](https://uxlondon.com) - Annual UX conference by Clearleft with talks and full-day workshops.
@@ -222,6 +227,8 @@ Find and recruit the right participants for your research.
 - [UXPA International](https://uxpa.org) - Annual conference by the User Experience Professionals Association.
 
 ### 🎤 Talk
+
+> Watching someone talk about talking to users. Close enough.
 
 - [Continuous Discovery Habits](https://www.youtube.com/watch?v=l7-5x0ra2tc) - Teresa Torres on building a sustainable habit of weekly customer discovery.
 - [How to Run Better User Interviews](https://www.youtube.com/watch?v=qAws7eXItMk) - Steve Portigal on interviewing users.
@@ -232,6 +239,8 @@ Find and recruit the right participants for your research.
 
 ### 🎧 Podcast
 
+> Six episodes in on how to talk to users. Still haven't called one.
+
 - [Awkward Silences](https://userinterviews.com/ux-research-podcast) - User Interviews' podcast on the practice and craft of UX research.
 - [Dollars to Donuts](https://portigal.com/podcast) - Steve Portigal interviews research practitioners.
 - [Mixed Methods](https://mixedmethods.fm) - A podcast for UX researchers.
@@ -240,6 +249,8 @@ Find and recruit the right participants for your research.
 - [This is HCD](https://www.thisishcd.com) - Human-centered design conversations with practitioners worldwide.
 
 ### 📖 Books
+
+> Everyone on the team owns The Mom Test. One person has read it.
 
 Essential reading for product managers and UX researchers.
 
@@ -254,6 +265,8 @@ Essential reading for product managers and UX researchers.
 
 ### 📰 Blogs
 
+> Bookmarked for later. Later is a lie.
+
 - [Dovetail Blog](https://dovetailapp.com/blog) - Research methods, team management, and UX practice at scale.
 - [Nielsen Norman Group Articles](https://nngroup.com/articles) - Evidence-based UX research and design guidance.
 - [Product Talk](https://www.producttalk.org/blog) - Teresa Torres on continuous discovery and product strategy.
@@ -262,14 +275,17 @@ Essential reading for product managers and UX researchers.
 
 ### 💌 Newsletters
 
+> Weekly reminders to do user research, delivered to an inbox you check between meetings you're already late for.
+
 - [Humans Who Research](https://humanswho.com/newsletter) - Practical UX research methods and career advice.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com) - Product strategy, growth, and user insights from Lenny Rachitsky.
 - [Mixed Methods Newsletter](https://mixedmethods.fm/newsletter) - Curated reads on UX research and product thinking.
 - [Product Thinking](https://newsletter.producthunt.com) - Product Hunt's newsletter on product thinking and user-centric design.
-- [The Slice](https://theresearchslice.substack.com) - Weekly digest of UX research articles, tools, and opportunities.
 - [UX Research Weekly](https://uxrweekly.com) - Curated links on UX research practice delivered weekly.
 
 ### 👥 People to follow
+
+> They all say "talk to your users." You liked the tweet instead.
 
 Practitioners, thinkers, and writers shaping the field of UX research and product discovery.
 
@@ -292,7 +308,7 @@ There are many ways to contribute: writing code, alerting rules, documentation, 
 
 Give a ⭐️ if this project helped you!
 
-[![support us](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/samber)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/samber?style=for-the-badge)](https://github.com/sponsors/samber)
 
 ## 📝 License
 
