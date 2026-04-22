@@ -241,11 +241,11 @@ Find and recruit the right participants for your research.
 
 > Six episodes in on how to talk to users. Still haven't called one.
 
-- [Awkward Silences](https://userinterviews.com/ux-research-podcast) - User Interviews' podcast on the practice and craft of UX research.
+- [Awkward Silences](https://www.userinterviews.com/podcast) - User Interviews' podcast on the practice and craft of UX research.
 - [Dollars to Donuts](https://portigal.com/podcast) - Steve Portigal interviews research practitioners.
-- [Mixed Methods](https://mixedmethods.fm) - A podcast for UX researchers.
+- [Mixed Methods](https://www.mixed-methods.org/episodes) - A podcast for UX researchers.
 - [The Product Experience](https://www.mindtheproduct.com/the-product-experience) - Mind the Product's podcast on building better products with real user insight.
-- [The UX Research Podcast](https://userresearchpodcast.com) - Interviews with practitioners across industries.
+- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - The Rosenfeld Review Podcast
 - [This is HCD](https://www.thisishcd.com) - Human-centered design conversations with practitioners worldwide.
 
 ### 📖 Books
@@ -261,7 +261,7 @@ Essential reading for product managers and UX researchers.
 - [Lean UX](https://www.oreilly.com/library/view/lean-ux-3rd/9781098116507) - Jeff Gothelf & Josh Seiden. Applying lean principles to UX design and research.
 - [Research That Scales](https://www.researchops.community/book) - Kate Towsey. Building and managing a research practice at scale.
 - [The Mom Test](https://www.momtestbook.com) - Rob Fitzpatrick. How to talk to customers and learn if your business idea is good.
-- [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one) - Leah Buley. A research and design survival guide for solo practitioners.
+- [The User Experience Team of One](https://rosenfeldmedia.com/books/the-user-experience-team-of-one-second-edition/) - Leah Buley. A research and design survival guide for solo practitioners.
 
 ### 📰 Blogs
 
@@ -279,9 +279,6 @@ Essential reading for product managers and UX researchers.
 
 - [Humans Who Research](https://humanswho.com/newsletter) - Practical UX research methods and career advice.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com) - Product strategy, growth, and user insights from Lenny Rachitsky.
-- [Mixed Methods Newsletter](https://mixedmethods.fm/newsletter) - Curated reads on UX research and product thinking.
-- [Product Thinking](https://newsletter.producthunt.com) - Product Hunt's newsletter on product thinking and user-centric design.
-- [UX Research Weekly](https://uxrweekly.com) - Curated links on UX research practice delivered weekly.
 
 ### 👥 People to follow
 
