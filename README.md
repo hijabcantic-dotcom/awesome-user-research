@@ -175,6 +175,7 @@ Guide users through your product, drive adoption, and collect in-context feedbac
 
 Validate designs and flows with real users before shipping.
 
+- [Dscout](https://dscout.com) - Diary studies and in-context mobile research platform for longitudinal qualitative insights.
 - [Maze](https://maze.co) - Rapid product research platform for usability testing.
 - [Sprig](https://sprig.com) - In-product concept and prototype testing tied to real user segments.
 - [UserTesting](https://usertesting.com) - On-demand human insight platform.
@@ -245,7 +246,7 @@ Find and recruit the right participants for your research.
 - [Dollars to Donuts](https://portigal.com/podcast) - Steve Portigal interviews research practitioners.
 - [Mixed Methods](https://www.mixed-methods.org/episodes) - A podcast for UX researchers.
 - [The Product Experience](https://www.mindtheproduct.com/the-product-experience) - Mind the Product's podcast on building better products with real user insight.
-- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - Interviews UX practitioners and thinkers
+- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - Interviews UX practitioners and thinkers.
 - [This is HCD](https://www.thisishcd.com) - Human-centered design conversations with practitioners worldwide.
 
 ### 📖 Books
