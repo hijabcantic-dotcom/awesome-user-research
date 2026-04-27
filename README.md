@@ -4,31 +4,31 @@
 
 ## Contents
 
-- [All-in-one platforms](#all-in-one-platforms)
-- [Survey](#survey)
-	- [In-app surveys](#in-app-surveys)
-	- [Feedback analysis](#feedback-analysis)
-- [Product discovery](#product-discovery)
-- [Session recording](#session-recording)
-- [Analytics](#analytics)
-	- [Product analytics](#product-analytics)
-	- [Marketing analytics](#marketing-analytics)
-	- [Business intelligence](#business-intelligence)
-	- [Customer data platform](#customer-data-platform)
-- [Feature flags & experimentation](#feature-flags--experimentation)
-- [Product tours & onboarding](#product-tours--onboarding)
-- [User testing](#user-testing)
-- [User interview](#user-interview)
-- [Research repository](#research-repository)
-- [User recruitment](#user-recruitment)
-- [Learn](#learn)
-	- [Event](#event)
-	- [Talk](#talk)
-	- [Podcast](#podcast)
-	- [Books](#books)
-	- [Blogs](#blogs)
-	- [Newsletters](#newsletters)
-	- [People to follow](#people-to-follow)
+- [All-in-one platforms](#-all-in-one-platforms)
+- [Survey](#-survey)
+	- [In-app surveys](#-in-app-surveys)
+	- [Feedback analysis](#-feedback-analysis)
+- [Product discovery](#-product-discovery)
+- [Session recording](#-session-recording)
+- [Analytics](#-analytics)
+	- [Product analytics](#-product-analytics)
+	- [Marketing analytics](#-marketing-analytics)
+	- [Business intelligence](#-business-intelligence)
+	- [Customer data platform](#-customer-data-platform)
+- [Feature flags & experimentation](#-feature-flags--experimentation)
+- [Product tours & onboarding](#-product-tours--onboarding)
+- [User testing](#-user-testing)
+- [User interview](#-user-interview)
+- [Research repository](#-research-repository)
+- [User recruitment](#-user-recruitment)
+- [Learn](#-learn)
+	- [Event](#-event)
+	- [Talk](#-talk)
+	- [Podcast](#-podcast)
+	- [Books](#-books)
+	- [Blogs](#-blogs)
+	- [Newsletters](#-newsletters)
+	- [People to follow](#-people-to-follow)
 
 ## 🧩 All-in-one platforms
 
@@ -246,7 +246,7 @@ Find and recruit the right participants for your research.
 - [Dollars to Donuts](https://portigal.com/podcast) - Steve Portigal interviews research practitioners.
 - [Mixed Methods](https://www.mixed-methods.org/episodes) - A podcast for UX researchers.
 - [The Product Experience](https://www.mindtheproduct.com/the-product-experience) - Mind the Product's podcast on building better products with real user insight.
-- [The Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - Interviews UX practitioners and thinkers.
+- [Rosenfeld Review Podcast](https://rosenverse.rosenfeldmedia.com/podcasts) - Interviews with UX practitioners and design thinkers.
 - [This is HCD](https://www.thisishcd.com) - Human-centered design conversations with practitioners worldwide.
 
 ### 📖 Books
