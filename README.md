@@ -69,6 +69,7 @@ Aggregate, tag, and extract signal from qualitative feedback at scale.
 - [Chattermill](https://chattermill.com) - AI-powered feedback analytics for CX and product teams.
 - [Enterpret](https://enterpret.com) - AI-native feedback analysis aggregating support tickets, reviews, and NPS at scale.
 - [Kapiche](https://kapiche.com) - AI-driven theme discovery and clustering from unstructured customer feedback.
+- [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool?utm_source=awesome_user_research&utm_medium=referral&utm_campaign=feedback_analysis) - Analyzes public competitor app-store reviews into evidence-linked pain-point clusters and customer-interview questions before product decisions.
 - [Thematic](https://getthematic.com) - AI-powered thematic analysis for clustering recurring themes from open-ended feedback.
 
 ## 🔍 Product discovery
